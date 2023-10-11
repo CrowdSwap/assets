@@ -465,6 +465,14 @@ export const POLYGON_TOKENS = [
   },
   {
     chainId: 137,
+    address: '0xE57594F829b3d514EE12C41e81DF3861B19c26e3',
+    name: 'TMN Global Wrapper',
+    symbol: 'TMNG',
+    decimals: 18,
+    observable: true,
+  },
+  {
+    chainId: 137,
     address: '0x5b77bCA482bd3E7958b1103d123888EfCCDaF803',
     name: 'TRU-TrueFi (PoS)',
     symbol: 'TRU',
