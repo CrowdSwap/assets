@@ -1,0 +1,12 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+
+/*.svg
+  Cache-Control: max-age=432000, must-revalidate
+
+/*.png
+  Cache-Control: max-age=432000, must-revalidate
+
+/*.jpg
+  Cache-Control: max-age=432000, must-revalidate
