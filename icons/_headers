@@ -1,6 +1,7 @@
 /*
   X-Content-Type-Options: nosniff
   Access-Control-Allow-Origin: *
+  Referrer-Policy: origin-when-cross-origin
 
 /*.svg
   Cache-Control: max-age=432000, must-revalidate
