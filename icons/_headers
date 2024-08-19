@@ -1,6 +1,6 @@
 /*
   X-Content-Type-Options: nosniff
-  X-Frame-Options: DENY
+  Access-Control-Allow-Origin: *
 
 /*.svg
   Cache-Control: max-age=432000, must-revalidate
